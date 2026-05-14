@@ -1,5 +1,5 @@
 # php-deploy-test
-
+Test
 A minimal, multi-page PHP website used to test GitHub OAuth-based deployment
 integrations for PHP hosting providers.
 
